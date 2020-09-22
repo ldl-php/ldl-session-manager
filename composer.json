@@ -1,0 +1,17 @@
+{
+    "name": "ldl-framework/ldl-session-manager",
+    "description": "LDL Framework Session Manager",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Federico",
+            "email": "jpfstange@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LDL\\Session\\": "src/LDL/Session"
+        }
+    }
+}
